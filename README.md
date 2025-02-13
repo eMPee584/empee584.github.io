@@ -1,3 +1,5 @@
+[Offener Brief inkl. Anlagen](offener-brief-ki-und-robotik-wirtschaft-umschalten.pdf) (22 Seiten, 6.8MiB)
+
 Sehr geehrte Mitmenschen,
 
 wir stehen in Deutschland kurz vor einer Bundestagswahl, bei der es
@@ -22,12 +24,18 @@ Programmierung erledigt. Dieses Feld des maschinellen Lernens und der
 „**KI-Winter**“ durch damals maßlos überhöhte Erwartungen) in den
 letzten Jahren immer schnellere Fortschritte gemacht. Nun kratzen
 Modelle der KI-Giganten wie ChatGPT/O3 (OpenAI), Llama (Meta/Facebook),
-Gemini (Google), Claude (Anthropic) und R1[^1] (Deepseek) an der
+Gemini (Google), Claude (Anthropic) und R1 (Deepseek) an der
 Obergrenze natürlicher Intelligenz – und stehen kurz davor, mit uns erst
 gleich- und sodann davon zu ziehen. Mit solch **universeller kognitiver
 Begabung** aber können sie alle unsere Aufgaben übernehmen – **auch ihre
 eigene Weiterentwicklung** und, mittels robotischer Körper, die Montage
-ihrer technischen Systemen. Und genau hier ist die **öffentliche
+ihrer technischen Systemen.
+
+
+![Intelligence Explosion Graph](http://situational-awareness.ai/wp-content/uploads/2024/06/intelligence_explosion-1536x1184.png)
+
+
+Und genau hier ist die **öffentliche
 Erkenntnislücke**, die droht, diese Wahl zur Farce werden zu lassen:
 **bezahlte menschliche Arbeit wird sehr bald verschwinden**, sollte es
 wirklich zutreffen, dass **Maschinen** in den nächsten etwa **zwei
@@ -46,7 +54,7 @@ umzusetzen** ist sowie die einzige Möglichkeit, „*wettbewerbsfähig*“ zu
 bleiben?
 
 Diese Entwicklungen haben das Potenzial, dramatische Turbulenzen in
-unseren **auf Lohnarbeit aufbauenden Gesellschaften **auszulösen – oder
+unseren **auf Lohnarbeit aufbauenden Gesellschaften** auszulösen – oder
 uns in ein **Zeitalter ohne Knappheit, Zeitdruck und Arbeitszwang** zu
 katapultieren. Wir brauchen eine **sofortige gesellschaftliche Debatte**
 darüber, welche Strategien eine zukünftige Bundesregierung sinnvoll
