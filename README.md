@@ -67,7 +67,7 @@ Anlagen:
 
 - [Statement von Dario Amodei zum Paris-AI-Action-Summit vom 11. Februar 2025](1-Statement_von_Dario_Amodei_zum_Paris_AI_Action_Summit_deutsch_Anthropic-com.pdf) ([Original](https://www.anthropic.com/news/paris-ai-summit))
 - [Auszug aus Studie »The Rise of Humanoid Robots« vom US-Luftfahrtingenieur & Entrepeneur Peter Diamandis](2-MetaTrend_Robotics-Takeaways-highlighted.two-pages.pdf) ([Full Report](https://globalhrcommunity.com/wp-content/uploads/2024/12/MetaTrend_Robotics.pdf))
-- [Offener Brief „Die Legislatur des Übergangs – menschliche Erwerbsarbeit als Auslaufmodell“](3-offener-brief-ki-und-robotik-wirtschaft-umschalten.pdf3)
+- [Offener Brief „Die Legislatur des Übergangs – menschliche Erwerbsarbeit als Auslaufmodell“](3-offener-brief-ki-und-robotik-wirtschaft-umschalten.pdf)
 - [Zusammenstellung von ausgewählten aktuellen Meldungen aus den Machine-Learning-/Singularity-Foren auf Reddit](4-ai-and-robotics-news-2025-01-23.pdf) ([r/artificial](https://www.reddit.com/r/artificial/), [r/singularity](https://www.reddit.com/r/singularity/), [r/machinelearningnews](https://www.reddit.com/r/machinelearningnews/))
 - [Entwürfe für zukunftsfähige Gesellschaftsmodelle (mit Claude 3.5 Sonnet erstellt)](5-visions-wisdom-society-resource-based-commons-economy.pdf)
 - [Notizen und Collagen zum Thema Open-Source-KI-Wirtschaft & Postknappheitsökonomie](6-kooperative-wirtschaft-open-source-everything.pdf)
