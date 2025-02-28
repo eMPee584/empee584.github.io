@@ -63,7 +63,7 @@ Beste Grüße aus Dresden
 
 Marcel Partap
 
-Anlagen:
+Anlagen einzeln zum Download:
 
 - [Statement von Dario Amodei zum Paris-AI-Action-Summit vom 11. Februar 2025](1-Statement_von_Dario_Amodei_zum_Paris_AI_Action_Summit_deutsch_Anthropic-com.pdf) ([Original](https://www.anthropic.com/news/paris-ai-summit))
 - [Auszug aus Studie »The Rise of Humanoid Robots« vom US-Luftfahrtingenieur & Entrepeneur Peter Diamandis](2-MetaTrend_Robotics-Takeaways-highlighted.two-pages.pdf) ([Full Report](https://globalhrcommunity.com/wp-content/uploads/2024/12/MetaTrend_Robotics.pdf))
