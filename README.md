@@ -75,24 +75,51 @@ Anlagen einzeln zum Download:
 # Notable News in Robotics & Artificial Intelligence
 
 <div class="grid">
-  <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="566">
+  <blockquote class="reddit-embed-bq">
+	<a href="https://www.reddit.com/r/singularity/comments/1j7wsyf/qant_launches_serial_production_of_worlds_first/">Q.ANT launches serial production of world's first commercially available photonic NPU</a><br> by<a href="https://www.reddit.com/user/elemental-mind/">u/elemental-mind</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq">
+	<a href="https://www.reddit.com/r/singularity/comments/1j60vz7/chinese_company_manus_introduces_general_ai_agent/">Chinese company "Manus" introduces general AI Agent, announces it will be releasing open source soon.</a><br> by<a href="https://www.reddit.com/user/zombiesingularity/">u/zombiesingularity</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq">
     <a href="https://www.reddit.com/r/artificial/comments/1j6ngsc/after_deepseek_chinas_new_ai_agent_manus_is/">After DeepSeek, China’s New AI Agent "Manus" is Automating Everything Even More Powerful?</a><br> by<a href="https://www.reddit.com/user/snehens/">u/snehens</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
   </blockquote>
-  <blockquote class="reddit-embed-bq" style="height:500px">
+  <blockquote class="reddit-embed-bq">
     <a href="https://www.reddit.com/r/artificial/comments/1j3gce9/upgraded_unitree_g1_does_a_720_degree_roundhouse/">Upgraded Unitree G1 does a 720 degree roundhouse kick</a><br> by<a href="https://www.reddit.com/user/MetaKnowing/">u/MetaKnowing</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
   </blockquote>
-  <blockquote class="reddit-embed-bq" data-embed-height="740">
+  <blockquote class="reddit-embed-bq">
     <a href="https://www.reddit.com/r/artificial/comments/1j7a750/imagine_if_you_could_train_one_human_for/">Imagine if you could train one human for thousands years to achieve unparalleled expertise, then make many copies. That’s what AI enables: Spend heavily on training a single model, then cheaply replicate it.</a><br> by<a href="https://www.reddit.com/user/MetaKnowing/">u/MetaKnowing</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
+  </blockquote>
+</div>
+
+<div class="grid">
+  <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="546">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:800px" data-embed-height="546">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="846">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
   </blockquote>
 </div>
 
 <script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 <style>
+.inner {
+    width: 60vw;
+}
 .grid {
-  display: flex;
+  width: 70vw;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(35vh, 100%), 1fr));
+  justify-self: center;
+  gap: 0.5rem;
 }
 .grid iframe {
-  flex: 1;
   _border: dashed 3px gray !important;
 }
 </style>
