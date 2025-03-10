@@ -71,3 +71,17 @@ Anlagen einzeln zum Download:
 - [Zusammenstellung von ausgewählten aktuellen Meldungen aus den Machine-Learning-/Singularity-Foren auf Reddit](4-ai-and-robotics-news-2025-01-23.pdf) ([r/artificial](https://www.reddit.com/r/artificial/), [r/singularity](https://www.reddit.com/r/singularity/), [r/machinelearningnews](https://www.reddit.com/r/machinelearningnews/))
 - [Entwürfe für zukunftsfähige Gesellschaftsmodelle (mit Claude 3.5 Sonnet erstellt)](5-visions-wisdom-society-resource-based-commons-economy.pdf)
 - [Notizen und Collagen zum Thema Open-Source-KI-Wirtschaft & Postknappheitsökonomie](6-kooperative-wirtschaft-open-source-everything.pdf)
+
+# Notable News in Robotics & Artificial Intelligence
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="566">
+  <a href="https://www.reddit.com/r/artificial/comments/1j6ngsc/after_deepseek_chinas_new_ai_agent_manus_is/">After DeepSeek, China’s New AI Agent "Manus" is Automating Everything Even More Powerful?</a><br> by<a href="https://www.reddit.com/user/snehens/">u/snehens</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
+</blockquote>
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740">
+  <a href="https://www.reddit.com/r/artificial/comments/1j3gce9/upgraded_unitree_g1_does_a_720_degree_roundhouse/">Upgraded Unitree G1 does a 720 degree roundhouse kick</a><br> by<a href="https://www.reddit.com/user/MetaKnowing/">u/MetaKnowing</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
+</blockquote>
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740">
+  <a href="https://www.reddit.com/r/artificial/comments/1j7a750/imagine_if_you_could_train_one_human_for/">Imagine if you could train one human for thousands years to achieve unparalleled expertise, then make many copies. That’s what AI enables: Spend heavily on training a single model, then cheaply replicate it.</a><br> by<a href="https://www.reddit.com/user/MetaKnowing/">u/MetaKnowing</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
+</blockquote>
+
+<script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
