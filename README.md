@@ -74,14 +74,25 @@ Anlagen einzeln zum Download:
 
 # Notable News in Robotics & Artificial Intelligence
 
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="566">
-  <a href="https://www.reddit.com/r/artificial/comments/1j6ngsc/after_deepseek_chinas_new_ai_agent_manus_is/">After DeepSeek, China’s New AI Agent "Manus" is Automating Everything Even More Powerful?</a><br> by<a href="https://www.reddit.com/user/snehens/">u/snehens</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
-</blockquote>
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740">
-  <a href="https://www.reddit.com/r/artificial/comments/1j3gce9/upgraded_unitree_g1_does_a_720_degree_roundhouse/">Upgraded Unitree G1 does a 720 degree roundhouse kick</a><br> by<a href="https://www.reddit.com/user/MetaKnowing/">u/MetaKnowing</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
-</blockquote>
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740">
-  <a href="https://www.reddit.com/r/artificial/comments/1j7a750/imagine_if_you_could_train_one_human_for/">Imagine if you could train one human for thousands years to achieve unparalleled expertise, then make many copies. That’s what AI enables: Spend heavily on training a single model, then cheaply replicate it.</a><br> by<a href="https://www.reddit.com/user/MetaKnowing/">u/MetaKnowing</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
-</blockquote>
+<div class="grid">
+  <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="566">
+    <a href="https://www.reddit.com/r/artificial/comments/1j6ngsc/after_deepseek_chinas_new_ai_agent_manus_is/">After DeepSeek, China’s New AI Agent "Manus" is Automating Everything Even More Powerful?</a><br> by<a href="https://www.reddit.com/user/snehens/">u/snehens</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:500px">
+    <a href="https://www.reddit.com/r/artificial/comments/1j3gce9/upgraded_unitree_g1_does_a_720_degree_roundhouse/">Upgraded Unitree G1 does a 720 degree roundhouse kick</a><br> by<a href="https://www.reddit.com/user/MetaKnowing/">u/MetaKnowing</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" data-embed-height="740">
+    <a href="https://www.reddit.com/r/artificial/comments/1j7a750/imagine_if_you_could_train_one_human_for/">Imagine if you could train one human for thousands years to achieve unparalleled expertise, then make many copies. That’s what AI enables: Spend heavily on training a single model, then cheaply replicate it.</a><br> by<a href="https://www.reddit.com/user/MetaKnowing/">u/MetaKnowing</a> in<a href="https://www.reddit.com/r/artificial/">artificial</a>
+  </blockquote>
+</div>
 
 <script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+<style>
+.grid {
+  display: flex;
+}
+.grid iframe {
+  flex: 1;
+  _border: dashed 3px gray !important;
+}
+</style>
