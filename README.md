@@ -75,18 +75,6 @@ Anlagen einzeln zum Download:
 # Notable News in Robotics & Artificial Intelligence
 
 <div class="grid">
-
-  <blockquote class="reddit-embed-bq">
-  </blockquote>
-  <blockquote class="reddit-embed-bq">
-  </blockquote>
-  <blockquote class="reddit-embed-bq">
-  </blockquote>
-  <blockquote class="reddit-embed-bq">
-  </blockquote>
-  <blockquote class="reddit-embed-bq">
-  </blockquote>
-
   <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740">
     <a href="https://www.reddit.com/r/singularity/comments/1jlvmn4/chat_gpt_after_asking_it_to_make_a_comic_about/">Chat GPT after asking it to make a comic about itself</a><br> by<a href="https://www.reddit.com/user/Fine_Individual1554/">u/Fine_Individual1554</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
   </blockquote>
