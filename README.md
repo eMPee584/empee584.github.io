@@ -75,6 +75,30 @@ Anlagen einzeln zum Download:
 # Notable News in Robotics & Artificial Intelligence
 
 <div class="grid">
+
+  <blockquote class="reddit-embed-bq">
+  </blockquote>
+  <blockquote class="reddit-embed-bq">
+  </blockquote>
+  <blockquote class="reddit-embed-bq">
+  </blockquote>
+  <blockquote class="reddit-embed-bq">
+  </blockquote>
+  <blockquote class="reddit-embed-bq">
+  </blockquote>
+
+  <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740">
+    <a href="https://www.reddit.com/r/singularity/comments/1jlvmn4/chat_gpt_after_asking_it_to_make_a_comic_about/">Chat GPT after asking it to make a comic about itself</a><br> by<a href="https://www.reddit.com/user/Fine_Individual1554/">u/Fine_Individual1554</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740">
+    <a href="https://www.reddit.com/r/singularity/comments/1jl5qfs/its_just_predicting_tokens_v2/">It\'s just predicting tokens v2</a><br> by<a href="https://www.reddit.com/user/considerthis8/">u/considerthis8</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq">
+	<a href="https://www.reddit.com/r/singularity/comments/1jilibe/robot_revolution_what_does_the_mercedes_humanoid/">Robot revolution: What does the Mercedes humanoid worker breakthrough mean for the workplace?</a><br> by<a href="https://www.reddit.com/user/Kiarajmex/">u/Kiarajmex</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="210">
+	<a href="https://www.reddit.com/r/ChatGPT/comments/1j5b010/introducing_the_mighty_mini_mena_team_of_oneinch/">Introducing the Mighty Mini Men—a team of one-inch repair experts</a><br> by<a href="https://www.reddit.com/user/Prize-Cause-6869/">u/Prize-Cause-6869</a> in<a href="https://www.reddit.com/r/ChatGPT/">ChatGPT</a>
+  </blockquote>
   <blockquote class="reddit-embed-bq">
 	<a href="https://www.reddit.com/r/singularity/comments/1j7wsyf/qant_launches_serial_production_of_worlds_first/">Q.ANT launches serial production of world's first commercially available photonic NPU</a><br> by<a href="https://www.reddit.com/user/elemental-mind/">u/elemental-mind</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
   </blockquote>
@@ -96,13 +120,58 @@ Anlagen einzeln zum Download:
 </div>
 
 <div class="grid">
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="600">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="600">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="600">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="600">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+</div>
+
+<div class="grid">
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="500">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="500">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="500">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="500">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+</div>
+
+<div class="grid">
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="700">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="700">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="700">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+  <blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="700">
+	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
+  </blockquote>
+</div>
+
+<div class="grid">
   <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="546">
 	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
   </blockquote>
   <blockquote class="reddit-embed-bq" style="height:800px" data-embed-height="546">
 	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
   </blockquote>
-  <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="846">
+  <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="546">
 	<a href="https://www.reddit.com/r/singularity/comments/1j4kbqm/worlds_first_synthetic_biological_intelligence/">World's first "Synthetic Biological Intelligence" runs on living human cells.</a><br> by<a href="https://www.reddit.com/user/Site-Staff/">u/Site-Staff</a> in<a href="https://www.reddit.com/r/singularity/">singularity</a>
   </blockquote>
 </div>
